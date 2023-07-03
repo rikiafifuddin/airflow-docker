@@ -28,6 +28,11 @@ Note: Older versions of docker-compose do not support all the features required 
 2. Login using the following credentials:
    - Username: airflow
    - Password: airflow
+   - 
+## Disable example DAG
+
+inside docker-compose.yaml change
+AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
 
 ## Troubleshooting
 

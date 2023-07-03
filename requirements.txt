@@ -1,0 +1,10 @@
+google-cloud-storage
+numpy
+pandas
+protobuf
+psycopg2_binary
+python_dateutil
+requests
+XlsxWriter
+pyexcel
+apache_airflow_providers_imap

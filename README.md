@@ -24,7 +24,7 @@ Note: Older versions of docker-compose do not support all the features required 
 
 ## Open Airflow UI
 
-1. Open `localhost:8081` in your web browser.
+1. Open `localhost:8080` in your web browser.
 2. Login using the following credentials:
    - Username: airflow
    - Password: airflow
